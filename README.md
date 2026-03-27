@@ -27,13 +27,13 @@ I'm a Cybersecurity student at the **American University of Phnom Penh (AUPP)**.
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TE-Khayhour&layout=compact&theme=tokyonight)
-
 ### 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/khay-hour-te-015485349)
 - 📧 [Email](mailto:tekhayhour@gmail.com)
 
+### 📊 GitHub Stats:
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TE-Khayhour&layout=compact&theme=matrix&v=1" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TE-Khayhour&layout=compact&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TE-Khayhour&layout=compact&theme=matrix&v=1" width="45%" />
 </p>
