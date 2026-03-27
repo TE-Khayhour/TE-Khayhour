@@ -30,10 +30,3 @@ I'm a Cybersecurity student at the **American University of Phnom Penh (AUPP)**.
 ### 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/khay-hour-te-015485349)
 - 📧 [Email](mailto:tekhayhour@gmail.com)
-
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TE-Khayhour&layout=compact&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TE-Khayhour&layout=compact&theme=matrix&v=1" width="45%" />
-</p>
