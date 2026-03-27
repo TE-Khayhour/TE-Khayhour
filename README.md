@@ -35,5 +35,5 @@ I'm a Cybersecurity student at the **American University of Phnom Penh (AUPP)**.
 - 📧 [Email](mailto:tekhayhour@gmail.com)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TE-Khayhour&show_icons=true&theme=matrix&include_all_commits=true&count_private=true" alt="TE-Khayhour's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TE-Khayhour&layout=compact&theme=matrix&v=1" alt="Most Used Languages" />
 </p>
